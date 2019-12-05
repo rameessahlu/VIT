@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Semeer.cpp
+Semeer.obj : error LNK2019: unresolved external symbol "char __cdecl generateMelt(int)" (?generateMelt@@YADH@Z) referenced in function main
+C:\Users\ramees_sahlu\source\repos\Semeer\x64\Debug\Semeer.exe : fatal error LNK1120: 1 unresolved externals
